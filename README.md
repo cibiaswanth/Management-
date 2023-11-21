@@ -1,4 +1,4 @@
-# Management-
+# Waste Management 
 
 Waste Management Visualization Project:
 Description:
